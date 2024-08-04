@@ -1,4 +1,5 @@
-Halo Nama gw Bara, Gw adalah Game Developer di sebuah company di USA.
+Halo Nama gw Bara, Gw adalah Game Developer intern di salah satu perusahaan di USA selama 6 bulan.
+Sebelumnya gw Punya 2 pekerjaan tapi salah satu nya, gw kena PHK massal karna Game nya EoS di bulan Juni 2024 kemarin.
 Repo gw kosong karna gw baru buat akun Github biasanya emang langsung di salurin ke Company.
 
 Awal gw belajar programming adalah ketika gw pertama kali kenal Minecraft
